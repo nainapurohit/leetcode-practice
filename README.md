@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nainapurohit/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/nainapurohit/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/nainapurohit/leetcode-practice/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/nainapurohit/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0981-delete-columns-to-make-sorted](https://github.com/nainapurohit/leetcode-practice/tree/master/0981-delete-columns-to-make-sorted) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nainapurohit/leetcode-practice/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nainapurohit/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
